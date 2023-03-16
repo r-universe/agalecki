@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lmeSplines",
+    "oncran": true
+  },
+  {
+    "package": "nlmeU",
+    "oncran": true
+  }
+]
